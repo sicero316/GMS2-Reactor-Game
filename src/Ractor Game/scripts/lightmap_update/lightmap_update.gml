@@ -23,7 +23,7 @@ draw_rectangle(0,0,surface_get_width(lightmap),surface_get_height(lightmap),fals
 draw_set_alpha(1);
 
 //set the blend mode to addictive blending, so the lights blend toghether nicely with multiple colors
-draw_set_blend_mode(bm_add);
+gpu_set_blendmode(bm_add);
 
 //draw the lights onto this surface
 with(obj_light){
@@ -31,7 +31,7 @@ with(obj_light){
 }
 
 //reset blend mode
-draw_set_blend_mode(bm_normal);
+gpu_set_blendmode(bm_normal);
 
 //reset surface
 surface_reset_target();
