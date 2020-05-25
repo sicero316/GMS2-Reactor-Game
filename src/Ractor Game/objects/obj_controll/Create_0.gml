@@ -1,5 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
-//create
-depth=0
-instance_create(0,0,obj_lightmap);
+/// @description obj_controll.depth=0 create obj_lightmap
+depth=0;
+instance_create_depth(0,0,0,obj_lightmap);

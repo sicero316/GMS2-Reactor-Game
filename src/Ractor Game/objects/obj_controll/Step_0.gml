@@ -1,6 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
-// step
+/// @description create obj_light.depth=-100 on mb_left
 if(mouse_check_button_pressed(mb_left)){
-    instance_create(mouse_x,mouse_y,obj_light);
+    instance_create_depth(mouse_x,mouse_y,-100,obj_light);
 }
