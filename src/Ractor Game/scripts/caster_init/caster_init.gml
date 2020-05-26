@@ -7,13 +7,13 @@ cast_x[0]=0;
 cast_y[0]=0;
 
 //second point, top right corner
-cast_x[1]=32;
+cast_x[1]=40;
 cast_y[1]=0;
 
 //third point, down right corner
-cast_x[2]=32;
-cast_y[2]=32;
+cast_x[2]=40;
+cast_y[2]=40;
 
 //fourth point, down left corner
 cast_x[3]=0;
-cast_y[3]=32;
+cast_y[3]=40;

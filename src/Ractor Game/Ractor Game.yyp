@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "2385626e-6b7f-40e7-9073-df2b55e146b5",
+            "Value": {
+                "id": "d1660bbf-6b91-432c-8d62-4ce2321cc99f",
+                "resourcePath": "sprites\\sprite2\\sprite2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "25d6013c-98c6-47ee-a358-dfe7f3f6513a",
             "Value": {
                 "id": "a7a34d6d-801e-4f36-97d2-350dd3c72931",
@@ -116,6 +124,30 @@
                 "id": "9146c883-99a1-401c-af53-ccf16fbac62a",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "40a64211-93f4-4bcc-8303-c9cacac4990e",
+            "Value": {
+                "id": "a940f275-565a-43ab-9a08-8c9338ac7a57",
+                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "4707bcdd-d1e7-4104-8d58-5599d64ca45d",
+            "Value": {
+                "id": "fffb90e8-50a3-45fb-bf64-e31096478843",
+                "resourcePath": "paths\\path0\\path0.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "4785a630-f62d-44fa-b91e-c76377e499d6",
+            "Value": {
+                "id": "9c1c91b4-b90a-438d-85d6-5d18d6010d6d",
+                "resourcePath": "objects\\obj_light_moving\\obj_light_moving.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -167,6 +199,14 @@
             }
         },
         {
+            "Key": "7f636900-8d6b-4fbd-bf84-16eceef8c931",
+            "Value": {
+                "id": "629e289d-902f-45c1-a0c1-c212a5d1b5e9",
+                "resourcePath": "sprites\\map_wall\\map_wall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "82268e8f-bf92-4854-bfd1-0343f38f012f",
             "Value": {
                 "id": "d866994d-5e20-4216-ac98-09936648b611",
@@ -180,6 +220,14 @@
                 "id": "da8395ef-a075-4615-9ea5-8f636ff1b9bc",
                 "resourcePath": "views\\85fbcad9-edc3-428e-aa6c-ba43c34d74b8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "88566d79-a8aa-4216-aad4-e5b4be590afd",
+            "Value": {
+                "id": "674ab73f-e9a2-4846-b145-26c016ea5ee8",
+                "resourcePath": "objects\\obj_spawner\\obj_spawner.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -247,6 +295,14 @@
             }
         },
         {
+            "Key": "a0bf036a-9961-446b-b0f0-49bf11ff52d9",
+            "Value": {
+                "id": "8afc41db-7af4-4d7e-a9f5-309977f8b21f",
+                "resourcePath": "objects\\obj_drawer\\obj_drawer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a79aeffa-38ae-43c7-b64e-d2a13bc68a8b",
             "Value": {
                 "id": "8f95feba-dec0-4d74-a7c7-b4682e11036e",
@@ -287,6 +343,14 @@
             }
         },
         {
+            "Key": "bd5c7b8e-8aa8-4ecf-8fb5-d20eb7a4ff4d",
+            "Value": {
+                "id": "8f1a77aa-f252-41e5-ad7e-6203dc11f72b",
+                "resourcePath": "objects\\obj_map_wall_40x40\\obj_map_wall_40x40.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "0011bb89-5744-4e98-bd07-e59aca3fe416",
@@ -316,6 +380,14 @@
                 "id": "a4bd09a4-fa12-4ab8-9920-f2bd9c2e6077",
                 "resourcePath": "views\\ea9de9b2-209d-419b-b54e-d21b06ff53ba.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f37e48da-048f-4106-8610-dfecb16ccb81",
+            "Value": {
+                "id": "08996be4-8339-4916-a188-70e2f301321d",
+                "resourcePath": "sprites\\tileset\\tileset.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

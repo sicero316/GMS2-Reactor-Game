@@ -1,4 +1,5 @@
 //caster_
+draw_self();
 //begin drawing primitives
 draw_primitive_begin(pr_linestrip);
 
