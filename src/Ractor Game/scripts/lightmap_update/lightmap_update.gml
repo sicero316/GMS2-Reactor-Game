@@ -2,7 +2,10 @@
 //update all lights
 with(obj_light){
     light_update();
-}
+};
+with(obj_light_moving){
+    light_update();
+};//moving lightbulb
 
 //set the surface target
 surface_set_target(lightmap);
@@ -28,7 +31,10 @@ gpu_set_blendmode(bm_add);
 //draw the lights onto this surface
 with(obj_light){
     light_draw();
-}
+};
+with(obj_light_moving){
+    light_draw();
+};
 
 //reset blend mode
 gpu_set_blendmode(bm_normal);
